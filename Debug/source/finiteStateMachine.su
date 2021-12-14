@@ -1,0 +1,7 @@
+finiteStateMachine.c:64:6:accumulateLine	32	static
+finiteStateMachine.c:107:13:handleInitPeripheralsState	16	static
+finiteStateMachine.c:130:13:handleUserInputState	72	dynamic
+finiteStateMachine.c:158:13:handleCalibrateZeroDegreesState	16	static
+finiteStateMachine.c:201:13:handleComputeTiltAngleState	24	static
+finiteStateMachine.c:263:13:handleIlluminateLedState	16	static
+finiteStateMachine.c:314:6:fsmLoop	32	static

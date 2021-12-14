@@ -1,0 +1,12 @@
+led.c:46:6:rgbInit	8	static
+led.c:68:6:turnOnRedLed	8	static
+led.c:89:6:turnOffRedLed	8	static
+led.c:106:6:turnOnGreenLed	8	static
+led.c:127:6:turnOffGreenLed	8	static
+led.c:140:6:turnOnBlueLed	8	static
+led.c:161:6:turnOffBlueLed	8	static
+led.c:174:6:turnOnWhiteLed	8	static
+led.c:190:6:turnOffWhiteLed	8	static
+led.c:205:6:testRgbLed	8	static
+led.c:241:6:driveLed	8	static
+led.c:280:6:turnOffAllLeds	8	static

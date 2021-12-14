@@ -1,0 +1,6 @@
+mma8451.c:53:5:init_mma	8	static
+mma8451.c:68:6:read_full_xyz	32	static
+mma8451.c:103:6:read_xyz	8	static
+mma8451.c:122:7:computeTiltAngle	48	static
+mma8451.c:149:6:self_test_enable	16	static
+mma8451.c:179:6:self_test	152	static
