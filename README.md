@@ -9,4 +9,4 @@ Also, serial terminal has been utilised to interact with user. The serial termin
 
 ![Com_settings](https://user-images.githubusercontent.com/89766346/145932368-ab277a27-fed7-4704-bc5e-6a2be7e0e1a7.PNG)
 
-Please refer to testDocs_PDR_ComSnapshot_DemoVideo folder, this contains PDR, state machine diagram document, Manual test document, Demo video and GPIO pin screenshot.
+Please refer to testDocs_PDR_ComSnapshot_DemoVideo folder, this contains PDR, state machine diagram document, Manual test document, Demo video and PortD pin3 GPIO pin screenshot.
