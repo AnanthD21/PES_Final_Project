@@ -1,4 +1,4 @@
-#Digital Angle Gauge
+# Digital Angle Gauge
 
 As proposed in the PDR, digital Angle gauge has been implemented adhering to PDR. The tilt angle has been measured using on chip sensor MMA8451.
 In order to accomplish this task a state machine has been implemented as shown below.
